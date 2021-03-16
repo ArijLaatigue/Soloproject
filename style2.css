@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/03/17/09/57/360_F_317095717_dcvkRa9F8lOHgvfTVEVwQEKuHMoBviQO.jpg)  ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+}
+#title{
+ font-family:'Brush Script MT', cursive;
+ font-size: 50px;
+ text-align: center;
+ color:#234430 ;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #b0c4de;
+    
+  border: 2px solid #b0c4de ;
+  }
+  
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 20px 18px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color:#e6e6fa;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #e6e6fa;
+    color: black;
+  
+  }
+  .grid-container {
+    display: grid;
+    grid-column-gap: 50px;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+

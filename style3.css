@@ -1,0 +1,126 @@
+body{
+  background-image: url(https://t4.ftcdn.net/jpg/03/17/09/57/360_F_317095717_dcvkRa9F8lOHgvfTVEVwQEKuHMoBviQO.jpg)  ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+}
+#title{
+ font-family:'Brush Script MT', cursive;
+ font-size: 50px;
+ text-align: center;
+ color:#234430 ;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #b0c4de;
+    
+  border: 2px solid #b0c4de ;
+  }
+  
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 20px 18px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color:#e6e6fa;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #e6e6fa;
+    color: black;
+  
+  }
+
+  div{
+    color:black;
+   text-align: center;
+   
+  }
+ 
+
+  
+  .question{
+    font-size: xx-large;
+  
+    background-color:#627995;
+    border: 1px black solid;
+    border-radius: 25px;
+    margin: 10px;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  .answers{
+    font-size: x-large;
+   
+  }
+  .oily{
+    background-color: #d6e4ef;
+  border: 1px black solid;
+  border-radius: 25px;
+  margin: 10px;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: left;
+  cursor: pointer
+
+  }
+  .oily:hover{
+    background-color: cornflowerblue;
+  }
+  .dry{
+    background-color: #d6e4ef;
+  border: 1px black solid;
+  border-radius: 25px;
+  margin: 10px;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: left;
+  cursor: pointer
+  }
+  .dry:hover{
+    background-color: cornflowerblue;
+  }
+ .combination{
+  background-color: #d6e4ef;
+  border: 1px black solid;
+  border-radius: 25px;
+  margin: 10px;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: left;
+  cursor: pointer
+ }
+ .combination:hover{
+   background-color: cornflowerblue;
+ }
+ .sensitive{
+  background-color: #d6e4ef;
+  border: 1px black solid;
+  border-radius: 25px;
+  margin: 10px;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: left;
+  cursor: pointer
+ }
+ .sensitive:hover{
+  background-color: cornflowerblue;
+}
